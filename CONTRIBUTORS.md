@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [ALEX NUNEZ](https://github.com/CodingAlex22)
+- Place: Seattle, WA, USA
+- Bio: Full-stack software engineer
+- GitHub: [Alex Nunez](https://github.com/CodingAlex22)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
